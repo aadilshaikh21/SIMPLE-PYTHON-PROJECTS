@@ -1,2 +1,2 @@
 # SIMPLE-PYTHON-PROJECTS
-Will keep on updating the list..
+This library includes various simple and easy project for Python beginers.
